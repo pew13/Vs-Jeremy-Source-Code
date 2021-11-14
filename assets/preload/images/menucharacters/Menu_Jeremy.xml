@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Jeremy.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="547" height="376" frameX="0" frameY="-25" frameWidth="547" frameHeight="406"/>
+	<SubTexture name="idle0001" x="0" y="0" width="547" height="376" frameX="0" frameY="-25" frameWidth="547" frameHeight="406"/>
+	<SubTexture name="idle0002" x="547" y="0" width="547" height="406"/>
+	<SubTexture name="idle0003" x="547" y="0" width="547" height="406"/>
+	<SubTexture name="idle0004" x="547" y="0" width="547" height="406"/>
+	<SubTexture name="idle0005" x="547" y="0" width="547" height="406"/>
+	<SubTexture name="idle0006" x="1094" y="0" width="547" height="392" frameX="0" frameY="-13" frameWidth="547" frameHeight="406"/>
+	<SubTexture name="idle0007" x="1094" y="0" width="547" height="392" frameX="0" frameY="-13" frameWidth="547" frameHeight="406"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+{
+	"storyName": "jewemi owo",
+	"hideFreeplay": false,
+	"weekBackground": "jeremy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"jeremy",
+		"bf",
+		"building"
+	],
+	"songs": [
+		[
+			"gaming",
+			"jeremy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"anger",
+			"jeremy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"engage",
+			"jeremy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

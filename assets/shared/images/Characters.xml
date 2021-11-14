@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Characters.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Characters0000" x="0" y="0" width="793" height="363" frameX="-1" frameY="0" frameWidth="796" frameHeight="363"/>
+	<SubTexture name="Characters0001" x="793" y="0" width="796" height="338" frameX="0" frameY="-21" frameWidth="796" frameHeight="363"/>
+	<SubTexture name="Characters0002" x="0" y="363" width="796" height="326" frameX="0" frameY="-30" frameWidth="796" frameHeight="363"/>
+	<SubTexture name="Characters0003" x="796" y="363" width="796" height="309" frameX="0" frameY="-43" frameWidth="796" frameHeight="363"/>
+	<SubTexture name="Characters0004" x="796" y="363" width="796" height="309" frameX="0" frameY="-43" frameWidth="796" frameHeight="363"/>
+	<SubTexture name="Characters0005" x="796" y="363" width="796" height="309" frameX="0" frameY="-43" frameWidth="796" frameHeight="363"/>
+	<SubTexture name="Characters0006" x="796" y="363" width="796" height="309" frameX="0" frameY="-43" frameWidth="796" frameHeight="363"/>
+</TextureAtlas>

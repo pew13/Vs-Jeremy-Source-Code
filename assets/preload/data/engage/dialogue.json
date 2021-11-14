@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beaten once more"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "genuinely dude i fucking despise you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont get so pissy because im better than you bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what if i fc this song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you wont"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i prefer it when you speak english"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop be be boop be bee ba ba ba ba ba baba bab aba bab aba baba ba booba"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok "
+		}
+	]
+}

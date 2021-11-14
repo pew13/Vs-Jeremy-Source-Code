@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Building.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="510" height="590" frameX="0" frameY="-35" frameWidth="510" frameHeight="638"/>
+	<SubTexture name="idle0001" x="510" y="0" width="510" height="638"/>
+	<SubTexture name="idle0002" x="1020" y="0" width="510" height="602" frameX="0" frameY="-27" frameWidth="510" frameHeight="638"/>
+</TextureAtlas>

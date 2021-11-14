@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmfao imagine having relationship issues bro get therapy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i loved her!!! waaaaaaaaaaaaaaaaaaaaaaaa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just get better bro idk man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i will genuinely beat the fucking shit out of you and burn down more than your house you fucking prick"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do it pussy you wont"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "my balls are bigger than yours fuckwit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok and"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats it"
+		}
+	]
+}

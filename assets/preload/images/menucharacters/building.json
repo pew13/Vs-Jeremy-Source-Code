@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"image": "Menu_Building",
+	"position": [
+		10,
+		142
+	],
+	"scale": 0.85,
+	"confirm_anim": "idle"
+}
